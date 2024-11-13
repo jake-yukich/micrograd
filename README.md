@@ -1,5 +1,7 @@
 
 # micrograd
+*(I forked this repository to contribute a "Parallel implementation in C that prints the same thing" -- jake)*
+##
 
 > micrograd is the only piece of code you need to train neural networks. Everything else is just efficiency.
 
